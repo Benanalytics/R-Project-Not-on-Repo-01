@@ -10,6 +10,9 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+```{r}
+print("Hello R-Markdown")
+```
 
 ## **R Markdown**
 ### R-Project-Not-0n-Repo-01
@@ -21,6 +24,9 @@ When you click the **Knit** button a document will be generated that includes bo
 ```{r cars}
 summary(cars)
 ```
+
+- Speed thus kills
+- Slow and steady always win a race as the popuplar saying goes
 
 ## Including Plots
 
